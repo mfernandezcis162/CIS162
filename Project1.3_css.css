@@ -35,7 +35,9 @@ body {background-color: darkslategray;
         margin-right: auto;
         font-size: 1.5em;
         font-family: 'Trebuchet MS', Helvetica, sans-serif;
-        color:lavender;}
+        color:lavender;
+        text-align: center;
+        }
 
 
 
@@ -44,6 +46,7 @@ body {background-color: darkslategray;
              width:55%;
              background-color: darkslategray;
              font-size: 1.5em;
+             
             }
 
 #rightcolumn {clear:right;
@@ -51,14 +54,16 @@ body {background-color: darkslategray;
              width:40%;
              background-color:rgba(0, 139, 139, 0.3);
              font-size: 1.1em;
-       
+             
             }
 
 #rightcolumn > h3 >img {border: 15px;
                    border-style:solid;
-                   border-color: brown;}
+                   border-color: brown;
+                  }
 
 ul {list-style:circle;
+    
 }
 
 
@@ -75,7 +80,8 @@ nav > ul > li > a:hover, nav > ul > li > a:active {
 
 h4 { border:15px;
      border-style: solid;
-    border-color: brown;}
+    border-color: brown;
+    align-content: center;}
      
 
  
